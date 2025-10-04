@@ -1,3 +1,8 @@
+# simple jac program
+# NAME : DAVID GICHUKI
+# EMAIL : givickdach6@gmail.com
+# description : simple calculator using jac
+
 walker calculator {
     can run {
         report "Welcome to Jac AI Calculator!";
@@ -40,3 +45,4 @@ walker calculator {
 start {
     spawn walker calculator;
 }
+
